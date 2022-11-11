@@ -2,7 +2,7 @@
   <header>
     <h1>Vue Course Goals</h1>
   </header>
-  <section id="user-goals">
+  <section id="app">
     <h2>My course goals</h2>
     <input type="text" v-model="enteredGoalValue" />
 
